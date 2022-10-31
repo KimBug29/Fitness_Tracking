@@ -1,6 +1,15 @@
 # Food_Nutrition
 
 
+USDA API_KEY = "ORxfbCRQ1Bnqkfh1gEs8tHBpZ5UlAdLCpXVYebrv"
+
+url = f "https://api.nal.usda.gov/fdc/v1/foods/search?query=apple&pageSize=2 api_key={API_KEY}"
+
+
+
+https://myfitnesspalapi.com/docs/about/
+
+
 REQUIREMENTS:
 
 
