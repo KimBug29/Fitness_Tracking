@@ -1,4 +1,4 @@
-# Fitness_Tracking
+# Fitness_Tracking_Project
 
 REQUIREMENTS:
 
