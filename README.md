@@ -1,24 +1,36 @@
-# Fitness_Tracking_Project
+# Health and Fitness Tracking
 
-REQUIREMENTS:
+Health and Fitness Tracking is a data analysis project with a focus several key indicators to ....blah blah blah.
 
 
-Project Plan for Final Project. 
-A project plan defines all work in a project and identifies who will do it.
+## Project Description
+ * The application does _____
+ * Use of _______ (technologies) were used to ______ (why)
+ * While constructing this porject I faced ______ (challenges)
 
+ ## Table of Contents
+
+ Health and Fitness Tracking project includes the following features and can be found in the mentioned sections.
+
+ * Feature 1 - Load data. Read two (or more) data files including csv, Excel and JSON
+ * Feature 2 - Clean data while combining. Clean data and perform a pandas merge with two (or more) data sets, then calculates some new values based on the new data set
+ * Feature 3 - Visualize data. .....  still to be determined
+ * Feature 4 - Best practices. Utilize a virtual environment, instructions included in this README
+ * Feature 5 - Interpretation of data. Use of markdown cells in Jupyter Notebook, including clear code comments, and well written README.md 
+
+
+## Installation 
+
+Use the package manager [pip] (https://pip.pypa.io/en/stable/) to install ______
+
+_______ insert instructions on how to get the development environment set and running.
+
+## Credits
+
+osfstorage-archive file folder was obtained through Kaggle at https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset 
+
+KEEP THIS INFO AND USE AS REFERENCE WHILE WORKING ON PROJECT
 Project Plan should list the items from the “Features List” you plan to include.
-
-Project Plan could include: 
-Project Brief explaining the project and the features you plan to include.
-
-The project is uploaded to your GitHub repository and shows at minimum 5 separate commits.
-Must upload via Git Gitignore should be used to keep any secrets/passwords used to access APIs / data sources out of the Github repository.
-
-The project includes a README file that explains the following:
-A one-paragraph or longer description of what your project is about.
-Relevant packages that need to be installed to run the project.
-Which 5+ features you have included from the below lists to meet the requirements.
-Any special instructions that are required for the reviewer to run your project. (For example: “run python main.py” from the command line).
 
 Guide to using markdown for README.md files (https://guides.github.com/features/mastering-markdown/).
 
@@ -26,51 +38,7 @@ The project implements a data analysis program that uses pandas, matplotlib, and
 
 At a minimum, the program should ingest, analyze, and display data. Any needed data cleaning should be clearly documented and repeatable.
 
-Choose at least 1 item from each category on the Features List below and implement them in your project
-We recommend you pick a 4th item (or more!) to add, just in case something goes wrong with one of your other items - 3 is only the minimum requirement.
-
-
-FEATURES
-
-In Data 2, we want to build off the skills you learned in data 1. If you just pulled in data with a csv, try using an API instead or building your own database. If you just visualized data with a couple matplotlib plots, try using different techniques with those plots and fine tuning them with optional arguments. Or, you can make a Tableau dashboard with your prepared data. We want you to be creative with how you think about working with data, outside of the box thinking for the requirements is encouraged. 
-
 We also want this to be a project you’re proud to show off to your employer. You should actually come to some conclusions and have clear descriptions of what your code does and why you’re doing it!
-
-Choose one item from each of the tables below to meet the project requirements. These are somewhat similar in structure and flow to Data 1, but remember, explore the data analysis tools you have further.
-
-Loading data. All of the below features should be somewhat familiar to you at this point. However, the challenge with this project is going to be using two separate sources. In feature 2, you’re going to be challenged to combine the datasets using a merge / join, or make a new dataset with different attributes / columns from the separate sets. 
-
-FEATURE 
-DIFFICULTY 
-RESOURCES
-Read TWO data files (JSON, CSV, Excel, etc.). 
-Easy 
-
-Read in TWO text data sources (in any format). For example, email chains or different pages from a book. 
-Intermediate 
-
-Read TWO data sets in with an API (or use two different APIs that have data you can combine to answer new questions). 
-Intermediate 
-A Cool list of Public APIs 
-Scrape TWO pieces of data from anywhere on the internet and utilize it in your project. 
-Intermediate 
-RealPython article on webscraping 
-Set up a local database and read data in with SQLite or SQLAlchemy
-Hard 
-SQLite docs 
-
-
-Clean and operate on the data while combining them. The heart of data science is data wrangling and cleaning, so these features test that. You may have trouble joining the sets if one has the names of countries in lower case and another has the first letter capitalized. This is where you would need to clean the set in order to merge them. 
-
-FEATURE 
-DIFFICULTY
-RESOURCES 
-Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.  
-Intermediate 
-Merge and join  
-Clean your data and perform a SQL join with your data sets using either plain sql or the pandasql Python library.
-Intermediate 
-SQL Join resource 
 
 pandasql docs 
 If you’re using text data, get some information from your separate documents and summarize them in a DataFrame. This isn’t literally a join but accomplishes a similar idea. For example, getting the most frequent word distributions from both documents and then summarizing them in a table. 
@@ -130,10 +98,3 @@ RESOURCES
 Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, and have a well-written README.md. Tidy up your notebook, and make sure you don’t have any empty cells or incomplete cells that don’t do anything. Make sure it’s all functional before your final github commit.
 Intermediate 
 A Guide to Good Comments 
-
-A Guide to Markdown 
-Annotate your .py files with well-written comments and a clear README.md (only applicable if you’re not using a jupyter notebook).
-Intermediate 
-A Guide to Good Comments 
-
-A Guide to Markdown
