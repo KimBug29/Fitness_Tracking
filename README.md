@@ -1,6 +1,6 @@
-# Health and Fitness Tracking
+# Health and Fitness Relationship
 
-Health and Fitness Tracking is a data analysis project with a focus several key indicators to ....blah blah blah.
+Health and Fitness Relationship is a data analysis project with a focus on comparing and contrasting fitness activity to select health indicators. Activity measurement originated from fitness trackers, a sports logging app and manual data entry from participants.
 
 
 ## Project Description
@@ -10,7 +10,7 @@ Health and Fitness Tracking is a data analysis project with a focus several key 
 
  ## Table of Contents
 
- Health and Fitness Tracking project includes the following features and can be found in the mentioned sections.
+ Health and Fitness Relationship project includes the following features.
 
  * Feature 1 - Load data. Read two (or more) data files including csv, Excel and JSON
  * Feature 2 - Clean data while combining. Clean data and perform a pandas merge with two (or more) data sets, then calculates some new values based on the new data set
@@ -21,13 +21,13 @@ Health and Fitness Tracking is a data analysis project with a focus several key 
 
 ## Installation 
 
-Use the package manager [pip] (https://pip.pypa.io/en/stable/) to install ______
+Use the package manager [pip] (https://pip.pypa.io/en/stable/) to install Python
 
 _______ insert instructions on how to get the development environment set and running.
 
 ## Credits
 
-osfstorage-archive file folder was obtained through Kaggle at https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset 
+Data file folder titled 'osfstorage-archive' was obtained through Kaggle at https://www.kaggle.com/datasets/vlbthambawita/pmdata-a-sports-logging-dataset 
 
 KEEP THIS INFO AND USE AS REFERENCE WHILE WORKING ON PROJECT
 Project Plan should list the items from the “Features List” you plan to include.
